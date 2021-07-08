@@ -8,8 +8,6 @@ Created on Thu Jul  8 15:01:02 2021
 # =============================================================================
 # Task:
 #     Write a program that can indicate the degree of profanity for each sentence in the file.
-#     
-#     Changes: profanity -->relativity ex:food related.
 # =============================================================================
 
 #***************Approach 1******************************
